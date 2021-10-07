@@ -1,3 +1,3 @@
 # StockTradingBot
-
-Supporting Documentation: https://ninjatrader.com/support/helpGuides/nt8/
+Stock trading bot created in Python that utilizes Interactive Brokers api and work station
+Supporting Documentation: https://pypi.org/project/ibapi/
